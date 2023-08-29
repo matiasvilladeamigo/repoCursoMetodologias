@@ -1,0 +1,22 @@
+# localhost name resolution is handled within DNS itself. (***Needed, don't delete this parts***)
+	127.0.0.1       localhost
+	::1             localhost
+217.10.68.152 we9stun.winning-eleven.net       #Stunserver	(Recommended for Europe)
+37.59.151.229 pes6gate-ec.winning-eleven.net   #Pes6Stars Server (pes6stars.us.to)
+#210.148.52.96 we9stun.winning-eleven.net	   #Stunserver (Alternative 1 japan
+#212.227.67.34 we9stun.winning-eleven.net    #Stunserver [Best Ping Iran] (Alternative 2) 
+#107.23.150.92 we9stun.winning-eleven.net    #Alternative Stunserver [NOT Recommended] from America]  
+#77.72.169.211 we9stun.winning-eleven.net	#Alternative Stunserver [NOT Recommended]
+#You can check all the stun servers to see which is better for you.
+#If you have lag at second half only when you blue. This is about you and your opponent ping.
+#Don't use wifi, if you don't want see the lag. >>>>>>>>And report cheaters!<<<<<<<<
+#######Alternative Servers########
+#79.137.72.62  pes5gate-ec.winning-eleven.net # Pes5 OWH WAP Server (we9le.wap.ovh)
+#66.70.168.175 pes5gate-ec.winning-eleven.net # Pes5 Indie Server (pes5indie.com)
+#66.70.168.175 pes6gate-ec.winning-eleven.net # Pes6 Indie Server (pes6indie.com)
+
+#OnLy_Official-Link!!
+#www.Pes6Stars.us.to (since 2015 by Bob and Ahg37)
+#Pes6Stars.us.to/games.php
+#Pes6Stars.us.to/discord
+#Pes6Stars.us.to/facebook
